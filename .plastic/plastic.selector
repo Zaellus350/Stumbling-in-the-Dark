@@ -1,4 +1,0 @@
-repository "Stumbling in the Dark/Stumbling in the Dark@1374585800909@cloud"
-  path "/"
-    br "/main"
-    co "/main"
